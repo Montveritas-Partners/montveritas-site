@@ -7,9 +7,9 @@ Static one-page site for Montveritas. No framework, no build step — just open
 
 Both are marked with `TODO` comments in `index.html`:
 
-1. **GitHub repo URL** — search `#TODO-GITHUB-REPO-URL`, replace with the real
+1. **GitHub repo URL** — search `https://github.com/Montveritas-Partners/odoo-modules-core`, replace with the real
    link to the `odoo-modules-core` repo (the "View odoo-modules-core →" button).
-2. **LinkedIn URL** — search `#TODO-LINKEDIN-URL`, replace with your LinkedIn
+2. **LinkedIn URL** — search `https://www.linkedin.com/in/holmes-michael/`, replace with your LinkedIn
    profile link.
 
 Email (`michael@montveritas.com`) is already wired in.
